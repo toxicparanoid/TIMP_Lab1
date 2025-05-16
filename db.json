@@ -1,0 +1,31 @@
+{
+  "fires": [
+    {
+      "id": "1",
+      "street": "",
+      "houseNumber": "",
+      "status": "скрытый",
+      "dangerLevel": "низкая",
+      "timestamp": "2023-01-01T00:00:00Z",
+      "hidden": true
+    },
+    {
+      "id": "6f02",
+      "street": "гроув стрит",
+      "houseNumber": "777",
+      "status": "потушен",
+      "dangerLevel": "высокая",
+      "timestamp": "2025-05-03T07:51:59.577Z",
+      "hidden": false
+    },
+    {
+      "id": "72d8",
+      "street": "Арбат",
+      "houseNumber": "78",
+      "status": "бригада в пути",
+      "dangerLevel": "низкая",
+      "timestamp": "2025-05-16T08:59:36.592Z",
+      "hidden": false
+    }
+  ]
+}
